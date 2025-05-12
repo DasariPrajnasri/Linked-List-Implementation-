@@ -1,4 +1,4 @@
-# Linked-List-Implementation-
+# Linked-List-Implementation
 A modular and efficient linked list implementation
 Explanation of the Code:
 Node Structure:
